@@ -1,4 +1,4 @@
-import logo from "./logo.svg";
+import logo from "./icon.png";
 import "./App.css";
 
 function App() {
@@ -6,7 +6,7 @@ function App() {
     <>
       <header>
         <div class="menu">
-          <img src="media/logo pasteleria.png" alt="" />
+          <img src="./logo-pasteleria.png" alt="" />
           <nav>
             <ul>
               <li>
